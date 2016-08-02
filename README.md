@@ -1,5 +1,5 @@
 # Riptide-1.0-Boards-
 
-This repo contains the most up-to-date versions of the pcb's used for Riptide in AUVSI's ROBOSUB competition. 
+This repo contains the most up-to-date versions of the pcb's used for Riptide in AUVSI's RoboSub competition. 
 
-Created by both Erika Klek and Charles Fletcher
+Created by Charles Fletcher and Erika Klek
