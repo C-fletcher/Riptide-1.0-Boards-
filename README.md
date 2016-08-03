@@ -13,4 +13,5 @@ This repo contains the most up-to-date versions of the pcb's used for Riptide in
 
 Created by Charles Fletcher and Erika Klek
 
+[Website](http://go.osu.edu/uwrt)
 
