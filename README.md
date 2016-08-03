@@ -9,9 +9,14 @@ The Ohio State University
 
 This repo contains the most up-to-date versions of the pcb's used for Riptide in AUVSI's RoboSub competition. 
 
+**electrical system overview**
+
+![Block diagram](https://osu.box.com/s/3e11di6npaieg8qtd70fcr557u1apznp)
+
 
 
 Created by Charles Fletcher and Erika Klek
 
 [Website](http://go.osu.edu/uwrt)
+
 
