@@ -11,7 +11,7 @@ This repo contains the most up-to-date versions of the pcb's used for Riptide in
 
 **electrical system overview**
 
-![Block diagram](https://osu.box.com/s/3e11di6npaieg8qtd70fcr557u1apznp)
+![Block diagram](https://osu.box.com/s/3e11di6npaieg8qtd70fcr557u1apznp.png)
 
 
 
